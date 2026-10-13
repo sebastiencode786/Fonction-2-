@@ -1,0 +1,2 @@
+# Fonction-2-
+=LET( noms;ASSEMB.V('MA OPTIM'!$A$2:$A$1000;'MA PERFO'!$A$2:$A$1000;'AVIO'!$A$2:$A$1000;'ENV'!$A$2:$A$1000;'MA MPS'!$A$2:$A$1000); statut;ASSEMB.V('MA OPTIM'!$C$2:$C$1000;'MA PERFO'!$C$2:$C$1000;'AVIO'!$C$2:$C$1000;'ENV'!$C$2:$C$1000;'MA MPS'!$C$2:$C$1000); infos;ASSEMB.V
